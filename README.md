@@ -6,17 +6,17 @@ I'm a passionate developer who loves building clean, efficient, and user-friendl
 ---
 
 ### 🛠 Skills & Technologies
-- *Languages:* C++, Java, Python
-- *Frontend:* HTML5, CSS3, JavaScript
-- *Tools:* Git, GitHub, VS Code
-- *Core:* Data Structures, Algorithms, OOP
+- **Languages:** C++, Java, Python
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Core:** Data Structures, Algorithms, OOP
 
 ---
 
 ### 📊 My GitHub Activity
-![Mostafa's Stats](https://github-readme-stats.vercel.app/api?username=mostafa122002&show_icons=true&theme=tokyonight)
+![Mostafa's Stats](https://github-readme-stats.vercel.app/api?username=mostafagamalelsayed&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa122002&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafagamalelsayed&layout=compact&theme=tokyonight)
 
 ---
 
