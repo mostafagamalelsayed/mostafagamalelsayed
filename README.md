@@ -5,11 +5,21 @@ I'm a passionate developer who loves building clean, efficient, and user-friendl
 
 ---
 
-### 🛠 Skills & Technologies
-- **Languages:** C++, Java, Python
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code
-- **Core:** Data Structures, Algorithms, OOP
+### 🛠 Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📚 Learning Journey
+حالياً أقوم بتطوير مهاراتي في التقنيات التالية:
+- [ ] *HTML5* (Advanced Semantics)
+- [ ] *CSS3* (Flexbox, Grid, Animations)
+- [ ] *Responsive Design*
 
 ---
 
